@@ -1,5 +1,4 @@
-![like-jumbotron](/Pietromuresu/img.jpeg)
-# Pietro
+![like-jumbotron](https://github.com/Pietromuresu/Pietromuresu/blob/main/img.jpeg)
 
 ## About Me
 I'm a **Junior Full-Stack Web Developer** with a strong passion for continuous learning. Every day, I strive to expand my knowledge and skills.

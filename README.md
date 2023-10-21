@@ -12,12 +12,14 @@ I'm a **Junior Full-Stack Web Developer** with a strong passion for continuous l
 - ☕ Completed a course on **Java** and the **Spring framework** lasting six weeks
 
 ###  Here are some of my projects:
-- ![Anteprima di Spring Il Mio Fotoalbum](URL_dell'immagine1) [Spring Il Mio Fotoalbum](https://github.com/Pietromuresu/spring-il-mio-fotoalbum)
-- ![Anteprima di BoolBnB](URL_dell'immagine2) [BoolBnB](https://github.com/Pietromuresu/boolbnb)
-- ![Anteprima di Laravel DC Comics](URL_dell'immagine3) [Laravel DC Comics](https://github.com/Pietromuresu/laravel-dc-comics)
-- - ![Anteprima di Laravel DC Comics](URL_dell'immagine3) [Laravel DC Comics](https://github.com/Pietromuresu/)
-- ![Anteprima di Proj HTML Vue.js](URL_dell'immagine4) [Proj HTML Vue.js](https://github.com/Pietromuresu/proj-html-vuejs)
-- ![Anteprima di Vue Boolzapp](URL_dell'immagine5) [Vue Boolzapp](https://github.com/Pietromuresu/vue-boolzapp)
+- [Spring Il Mio Fotoalbum](https://github.com/Pietromuresu/spring-il-mio-fotoalbum)
+  - Pinterest inspired template(Vue.js + Java).
+- [BoolBnB](https://github.com/Pietromuresu/boolbnb)
+  - Webapp built in team useing Laravel and Vue.js .
+- [Proj HTML Vue.js](https://github.com/Pietromuresu/proj-html-vuejs)
+  - Avada PetSupplies inspired template(HTML + CSS).
+- [Vue Boolzapp](https://github.com/Pietromuresu/vue-boolzapp)
+  - Whatsapp inspired template(Vue.js). 
 
 ## Let's Connect
-I'm on the lookout for exciting programming opportunities. Feel free to reac
+I'm on the lookout for exciting programming opportunities. Feel free to reach out

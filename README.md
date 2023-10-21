@@ -19,3 +19,6 @@ I'm a **Junior Full-Stack Web Developer** with a strong passion for continuous l
 
 ## Let's Connect
 I'm on the lookout for exciting programming opportunities. Feel free to reach out!
+<hr>
+
+[![Linkedin: pietro](	https://img.shields.io/badge/PietroMuresu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-muresu-b2b6061b4/)

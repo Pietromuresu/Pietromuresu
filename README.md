@@ -1,4 +1,4 @@
-![like-jumbotron](https://github.com/Pietromuresu/Pietromuresu/blob/main/img.jpeg)
+![like-jumbotron](https://github.com/Pietromuresu/Pietromuresu/blob/main/img.png)
 
 ## 👨‍💻 Pietro — Developer Profile
 
